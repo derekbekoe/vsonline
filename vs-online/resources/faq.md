@@ -29,7 +29,7 @@ Visual Studio Online will clone and utilize the user-provided source and/or dotf
 
 ### Where can security issues or concerns be reported?
 
-Visual Studio Online is covered by the Microsoft Azure Bounty Program. For information, visit <https://www.microsoft.com/msrc/bounty-microsoft-azure>.
+Visual Studio Online is eligible under the Microsoft Azure Bounty Program. For information, visit <https://www.microsoft.com/msrc/bounty-microsoft-azure>.
 
 ## Billing questions
 
